@@ -16,7 +16,7 @@ contribute to health and social problems, and [one of the behaviors](https://ncc
 it has tracked since 1991 is whether a student is currently using
 marijuana^[Current use is defined as using one or more times during the 30 days before the survey.].
 
-```{vgl file=./cannabis_consumption.vgl.json}
+```{vgl file=cannabis_consumption.vgl.json}
 ```
 
 Plotting the YRBSS results shows that in the last quarter century, there had
@@ -47,7 +47,7 @@ have noted the decline of adolescent marijuana use in Washington after that
 state's legalization. However, as we've seen, the decline shows up in the national
 aggregate as well. A deeper study is needed to tease out various cause and effects.
 
-```{vgl file=./cannabis_consumption_by_sex.vgl.json}
+```{vgl file=cannabis_consumption_by_sex.vgl.json}
 ```
 
 While the overall picture for cannabis consumption seems to have moderated from
@@ -58,7 +58,7 @@ sexes^[[YRBS data](https://nccd.cdc.gov/Youthonline/App/Results.aspx?TT=L&OUT=1&
 This is mostly driven by decreased usage by males. By 2017 teenage men were
 consuming marijuana at their lowest rate (20.0%) since 1991.
 
-```{vgl file=./cannabis_consumption_by_race.vgl.json}
+```{vgl file=cannabis_consumption_by_race.vgl.json}
 ```
 
 Cannabis culture also diverges between different
