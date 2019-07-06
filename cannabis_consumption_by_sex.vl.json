@@ -16,6 +16,10 @@
         "format": ".1%"
       }
     },
-    "color": {"field": "key", "type": "nominal"}
+    "color": {
+      "field": "key",
+      "type": "nominal",
+      "legend": { "title": null }
+    }
   }
 }

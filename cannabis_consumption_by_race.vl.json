@@ -23,6 +23,7 @@
     "color": {
       "field": "key",
       "type": "nominal",
+      "legend": { "title": null },
       "scale": {
         "range": [
           "#3e5c69",
